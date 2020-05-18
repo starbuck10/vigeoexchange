@@ -1,0 +1,11 @@
+---
+layout: default
+img: protect.jpg
+category: Services
+title: Vigeo<br>Protect
+description: |
+categories: [x, y]
+tags: [x, y]
+published: true
+---
+Our people and asset protection company dedicated to protecting what you value most; your family, your business, your property, your assets, and you.  Visit us <a href="https://vigeoprotect.com">here</a>.

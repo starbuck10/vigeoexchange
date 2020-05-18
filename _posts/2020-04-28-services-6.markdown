@@ -1,0 +1,11 @@
+---
+layout: default
+img: books.jpg
+category: Services
+title: Vigeo<br>Publishing
+description: |
+categories: [x, y]
+tags: [x, y]
+published: true
+---
+We are creatives at heart.  This is why we long to give back to our community, society, and friends and family.  We self-publish our works and help others do the same.  If you're interested in learning more, visit our Contact tab for more details.
