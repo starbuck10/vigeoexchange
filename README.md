@@ -1,2 +1,0 @@
-# vigeoexchange
-Vigeo Exchange Website
