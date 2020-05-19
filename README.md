@@ -1,1 +1,1 @@
-# vigeocorp
+# vigeoexchange

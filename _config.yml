@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://vigeocorp.com
-title: Vigeo Corporation
-email: sales@vigeoconstruction.com
-author: Joshua Coffie
+url: http://vigeo.exchange
+title: The Vigeo Exchange Podcast
+email: podcast@vigeoconstruction.com
+author: The Vigeo Exchange
 description:
   Vigeo Corporation is the parent and holdings company for the Vigeo enterprise.
 copyright: 'Copyright &copy; 2020 Vigeo Corporation. All Rights Reserved.'
@@ -30,6 +30,7 @@ social:
     url:
   - title: linkedin
     url:
+
 
 # Google Analytics
 google_analytics: UA-162053862-1
